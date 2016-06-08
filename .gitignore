@@ -1,3 +1,4 @@
-.gitignore
+!.gitignore
 .[a-zA-Z]
-/target
+/target/*
+/.setting/*
