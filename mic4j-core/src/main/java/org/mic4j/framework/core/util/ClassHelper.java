@@ -1,4 +1,4 @@
-package org.mic4j.framework.util.base;
+package org.mic4j.framework.core.util;
 
 import java.util.List;
 import java.util.concurrent.ConcurrentHashMap;

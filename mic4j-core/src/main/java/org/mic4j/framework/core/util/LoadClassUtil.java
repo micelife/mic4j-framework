@@ -1,4 +1,4 @@
-package org.mic4j.framework.util.base;
+package org.mic4j.framework.core.util;
 
 import org.mic4j.framework.exception.Mic4jException;
 
@@ -10,7 +10,7 @@ import org.mic4j.framework.exception.Mic4jException;
  * @author MiceLife
  * @time 2016年6月8日 下午3:45:00
  */
-public class ClassUtil {
+public class LoadClassUtil {
 	private static final Boolean DEFAULT_INIT_FLAG = Boolean.FALSE;
 
 	/**
